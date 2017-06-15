@@ -31,7 +31,7 @@
 <description>lae-archetype-camunda-boot</description>
 </archetype>
 <archetype>
-<groupId>clae.archetype</groupId>
+<groupId>lae.archetype</groupId>
 <artifactId>lae-archetype-camunda-boot</artifactId>
 <version>1.0.1</version>
 <description>lae-archetype-camunda-boot</description>
