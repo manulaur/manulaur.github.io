@@ -38,7 +38,7 @@
 <description>lae-archetype-camunda-boot</description>
 </archetype>
 <archetype>
-<groupId>lae.digibp.archetype</groupId>
+<groupId>lae.archetype</groupId>
 <artifactId>lae-archetype-camunda-boot</artifactId>
 <version>1.0.0</version>
 <description>lae-archetype-camunda-boot</description>
